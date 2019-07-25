@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 04 08:18:07 PST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\VARSHITH\\Desktop\\TheNetwork\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

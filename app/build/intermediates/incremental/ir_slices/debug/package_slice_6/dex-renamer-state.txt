@@ -1,0 +1,4 @@
+#Thu Mar 07 07:17:02 PST 2019
+base.0=C\:\\Users\\VARSHITH\\Desktop\\TheNetwork\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

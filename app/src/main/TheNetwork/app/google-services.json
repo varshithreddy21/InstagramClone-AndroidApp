@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609296927661",
+    "firebase_url": "https://thenetwork-ea288.firebaseio.com",
+    "project_id": "thenetwork-ea288",
+    "storage_bucket": "thenetwork-ea288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609296927661:android:cff120cf4ff7f59a",
+        "android_client_info": {
+          "package_name": "com.gmrj.thenetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609296927661-5edfr1pv2cj45c02dgmii9377moduh7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmrj.thenetwork",
+            "certificate_hash": "0092657e17082a85c307322877a751af3fc74450"
+          }
+        },
+        {
+          "client_id": "609296927661-ah4klrjmrp66msnturl502sp70hqh8cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPyB0bPOpDS-1zieW4D15Ax5-o1qtYlhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609296927661-ah4klrjmrp66msnturl502sp70hqh8cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
